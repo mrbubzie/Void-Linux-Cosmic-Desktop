@@ -1,0 +1,23 @@
+# name|github repo|tag prefix|extra makedepends|description
+cosmic-comp|cosmic-comp|epoch-||COSMIC Wayland compositor
+cosmic-session|cosmic-session|epoch-||COSMIC session manager
+cosmic-panel|cosmic-panel|epoch-||COSMIC panel and dock
+cosmic-applets|cosmic-applets|epoch-|pulseaudio-devel NetworkManager-devel libxkbcommon-devel|COSMIC panel applets
+cosmic-applibrary|cosmic-applibrary|epoch-||COSMIC app library
+cosmic-launcher|cosmic-launcher|epoch-||COSMIC launcher
+pop-launcher|launcher||| Launcher backend used by COSMIC
+cosmic-bg|cosmic-bg|epoch-|nasm|COSMIC wallpaper service
+cosmic-osd|cosmic-osd|epoch-|pulseaudio-devel|COSMIC on-screen display
+cosmic-notifications|cosmic-notifications|epoch-||COSMIC notification daemon
+cosmic-workspaces-epoch|cosmic-workspaces-epoch|epoch-||COSMIC workspaces overview
+cosmic-idle|cosmic-idle|epoch-||COSMIC idle daemon
+cosmic-randr|cosmic-randr|epoch-||COSMIC display config CLI
+cosmic-screenshot|cosmic-screenshot|epoch-||COSMIC screenshot tool
+cosmic-settings-daemon|cosmic-settings-daemon|epoch-|pulseaudio-devel|COSMIC settings daemon
+cosmic-settings|cosmic-settings|epoch-|pulseaudio-devel NetworkManager-devel accountsservice-devel|COSMIC settings app
+cosmic-greeter|cosmic-greeter|epoch-|pam-devel|COSMIC greeter (needs greetd)
+cosmic-files|cosmic-files|epoch-||COSMIC file manager
+cosmic-term|cosmic-term|epoch-||COSMIC terminal
+cosmic-edit|cosmic-edit|epoch-||COSMIC text editor
+cosmic-icons|cosmic-icons|epoch-||COSMIC icon theme
+xdg-desktop-portal-cosmic|xdg-desktop-portal-cosmic|epoch-||COSMIC XDG desktop portal
